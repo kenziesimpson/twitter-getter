@@ -3,6 +3,8 @@ const readline = require('readline')
 
 let backlog = []
 
+let dummy
+
 let rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
