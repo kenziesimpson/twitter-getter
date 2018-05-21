@@ -1,0 +1,22 @@
+{
+  "name": "twitter-getter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelsimpson2019/twitter-getter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelsimpson2019/twitter-getter/issues"
+  },
+  "homepage": "https://github.com/michaelsimpson2019/twitter-getter#readme",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
